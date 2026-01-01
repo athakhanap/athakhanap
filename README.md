@@ -1,4 +1,4 @@
-# Hi there, I'm Rizwan Khan 👋  
+# Hi there 👋  
 ### Technology Leader | Cloud & DevOps Expert | Full-Stack Systems Architect
 
 I'm passionate about building scalable, secure, and high-performing systems, modernizing operations, and driving innovation in cloud-native architectures.  
@@ -6,8 +6,8 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Cloud Infrastructure (AWS, GCP, Private Cloud)**, **CI/CD Automation**, and **Microservices Architecture**  
-- 🌱 Learning **MLOps**, **AI/ML in production**, **advanced observability**, and **zero-trust security**  
+- 🔭 Currently working on **Cloud Infrastructure (AWS, GCP)**, **CI/CD Automation**, **zero-trust security** and **Microservices Architecture**  
+- 🌱 Learning **MLOps**, **AI/ML in production** and **advanced observability** 
 - 👯 Looking to collaborate on **open-source DevOps projects** and **scalable applications**  
 - 🤔 Open to discussing **cloud strategy, performance optimization, and automation best practices**  
 - ⚡ Fun fact: I love **traveling for tech conferences** and exploring emerging technologies 🌍  
@@ -40,15 +40,13 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwankhan)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@rizwankhan)  
-📫 Email: **rizwan.khan@example.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdathakhan)
+📫 Email: **mdathakhan@gmail.com**  
 
 ---
 
 ## 📈 GitHub Stats
-![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwankhan&show_icons=true&theme=radical&count_private=true&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwankhan&layout=compact&theme=radical)
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwankhan&show_icons=true&theme=radical&count_private=true&hide=issues)  
 
 ---
 
