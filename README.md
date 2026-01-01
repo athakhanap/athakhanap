@@ -1,5 +1,5 @@
 # Hi there 👋  
-### Technology Leader | Cloud & DevOps Expert | Full-Stack Systems Architect
+### Technology & Product Leader | Scalable Cloud  Platforms & DevOps Expert | Full-Stack Systems Architect
 
 I'm passionate about building scalable, secure, and high-performing systems, modernizing operations, and driving innovation in cloud-native architectures.  
 
@@ -23,6 +23,7 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=puppet&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### Programming & Scripting
@@ -41,12 +42,13 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdathakhan)
+https://www.linkedin.com/in/mdathakhan/
 📫 Email: **mdathakhan@gmail.com**  
 
 ---
 
 ## 📈 GitHub Stats
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwankhan&show_icons=true&theme=radical&count_private=true&hide=issues)  
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=athakhanap&show_icons=true&theme=radical&count_private=true&hide=issues)  
 
 ---
 
