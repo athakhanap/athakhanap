@@ -23,7 +23,7 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Puppet](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=puppet&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-2496ED?style=flat-square&logo=puppet&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### Programming & Scripting
@@ -36,13 +36,15 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D1011?style=flat-square&logo=dynatrace&logoColor=white)
+![NewRelic](https://img.shields.io/badge/NewRelic-2496ED?style=flat-square&logo=newrelic&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-E6522C?style=flat-square&logo=datadog&logoColor=white)
 ![LogScale](https://img.shields.io/badge/LogScale-0A74DA?style=flat-square&logoColor=white)
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdathakhan)
-https://www.linkedin.com/in/mdathakhan/
+
 📫 Email: **mdathakhan@gmail.com**  
 
 ---
