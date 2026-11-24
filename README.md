@@ -49,9 +49,4 @@ I'm passionate about building scalable, secure, and high-performing systems, mod
 
 ---
 
-## 📈 GitHub Stats
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=athakhanap&show_icons=true&theme=radical&count_private=true&hide=issues)  
-
----
-
 💬 **Fun Fact:** I enjoy exploring **new tech**, optimizing **large-scale systems**, and sharing knowledge at **global tech conferences** 🌍
